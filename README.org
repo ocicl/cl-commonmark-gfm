@@ -5,6 +5,6 @@ Markdown to HTML, an HTML tree or plain text, and parses it to an AST.
 
 |---------+-------------------------------------------------------------------------------------------------------|
 | source  | file:https://github.com/Kiyomi-Computation-Systems/cl-commonmark-gfm/archive/refs/tags/v0.1.0.tar.gz |
-| version | 0.0.0                                                                                                 |
+| version | 0.1.0                                                                                                 |
 | systems | cl-commonmark-gfm                                                                                     |
 |---------+-------------------------------------------------------------------------------------------------------|
